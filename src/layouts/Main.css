@@ -1,0 +1,9 @@
+body{
+    /* background-image:
+    linear-gradient(to top, rgba(190, 190, 190, 0.6), rgba(88, 88, 88, 0.6)),
+    url('https://images.unsplash.com/photo-1549300461-11c5b94e8855?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3VuZGFyYmFufGVufDB8fDB8fA%3D%3D&w=1000&q=80'); */
+
+    background-image: url("https://images.unsplash.com/photo-1549300461-11c5b94e8855?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3VuZGFyYmFufGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

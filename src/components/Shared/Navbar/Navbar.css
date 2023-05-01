@@ -1,0 +1,43 @@
+body {
+    width: 1280px;
+    margin: auto;
+}
+
+.navbar-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 20px;
+    
+}
+
+.navbar-container img {
+    width: 120px;
+}
+
+.navbar-container input {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(112, 112, 112);
+}
+
+.menu-item{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+
+/* Button Login */
+.btn-login {
+    background: #F9A51A;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    padding: 10px 25px;
+}
+
+.btn-login:hover{
+    background: #db8700;
+}

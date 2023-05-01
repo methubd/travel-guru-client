@@ -1,0 +1,15 @@
+.home-container{
+    display: flex;
+    margin-top: 10rem;
+}
+
+.home-container h1,p{
+    color: white;
+}
+
+.location-imgs{
+    width: 20rem;
+    height: 30rem;
+    border-radius: 35px;
+    padding: 0 10px;
+}
